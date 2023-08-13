@@ -1,5 +1,5 @@
 # Transfer_learning
-Multiclass image classification using resent50
+Multiclass image classification using resent50 \n
 AIM: to classify pipelines into corroded, cracked, healthy pipelines
 Dataset: custom data set 
 training set: 4662 validated image filenames belonging to 3 classes.
