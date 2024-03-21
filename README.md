@@ -8,11 +8,11 @@
 - Test set:2498 validated image filenames belonging to 3 classes.
 
 ## Model parameters
-Total params: 23,688,769
-Trainable params: 96,853
-Non-trainable params: 23,591,916
+1. Total params: 23,688,769
+2. Trainable params: 96,853
+3. Non-trainable params: 23,591,916
 
-##Test metrics:
+## Test metrics:
 Classification Report:
 ```
                 precision    recall  f1-score   support
