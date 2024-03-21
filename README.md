@@ -1,7 +1,7 @@
 # Image Classification using Transfer Learning with ResNet50
 
 ## Overview
--This project aims to classify images into three categories (Healthy, Corrosion, Cracks) using transfer learning with the ResNet50 model. The dataset consists of images of structures with labels indicating their condition.
+- This project aims to classify images into three categories (Healthy, Corrosion, Cracks) using transfer learning with the ResNet50 model. The dataset consists of images of structures with labels indicating their condition.
 - Multiclass image classification using resent50 to classify pipelines into corroded, cracked, healthy pipelines
 - Training set: 4662 validated image filenames belonging to 3 classes.
 - Validation set:1165 validated image filenames belonging to 3 classes.
